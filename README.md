@@ -1,2 +1,5 @@
 # Hello-World
-Just a simple repository
+  
+Hello Binary Artists  
+
+Im theo a software developer from swaziland..
